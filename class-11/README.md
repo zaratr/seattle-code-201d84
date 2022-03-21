@@ -2,14 +2,13 @@
 
 ## Overview
 
-This class will be the start of a new project. You will also be learning a new CSS layout with flexbox.
+This class will be the start of a new project. You will also be learning a new CSS layout with grid.
 
 ## Class Outline
 
 - Code review of previous class lab assignment
 - Code demo
   - CSS Grid
-  - Array methods
 - New project introduction and problem domain breakdown
 - Lab preview and prep
 
